@@ -1,5 +1,6 @@
 sources:
   - name: stripe
+    description: 
     database: raw
     schema: stripe
     tables:
